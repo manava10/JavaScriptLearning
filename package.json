@@ -1,0 +1,17 @@
+{
+  "name": "javascript-learning",
+  "version": "1.0.0",
+  "description": "A comprehensive repository for learning JavaScript from basics to advanced concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "javascript",
+    "learning",
+    "tutorial",
+    "examples"
+  ],
+  "author": "manava10",
+  "license": "MIT"
+}
